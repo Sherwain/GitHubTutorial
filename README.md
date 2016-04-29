@@ -1,3 +1,3 @@
 # GitHubTutorial
-Test fot github
+Test for github
 Love this
